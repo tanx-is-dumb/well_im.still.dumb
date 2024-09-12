@@ -1,0 +1,5 @@
+#define BOOTMAGIC_ROW 1
+#define BOOTMAGIC_COLUMN 0
+#define OLED_DISPLAY_128x64
+#define I2C1_SCL_PIN B6
+#define I2C1_SDA_PIN B7
